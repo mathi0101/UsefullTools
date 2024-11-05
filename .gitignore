@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+*.egg
+*.log
+
+# Virtual Environment
+venv/
+ENV/
+env/
+env.bak/
+.venv/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pytest
+.cache/
+*.cover
+*.egg-info/
+
+# Otros
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# Editor backup files
+*~
+
+# Project
+salida/
